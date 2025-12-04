@@ -1,5 +1,5 @@
 # Spoutcodes
-### An efficeient web development company.
+### An efficient web development company.
 ## What type of projects do we do?
 ### Web apps
 Applications that can be freely opened in a web browser without requiring to download anything.

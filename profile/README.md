@@ -6,7 +6,7 @@ Applications that can be freely opened in a web browser without requiring to dow
 ### Local Apps
 Applications that you install and run locally.
 ### Hobbyist's projects
-Coding as a hobby is cool. Here in spoutcodes we code an idea and send it out to the world as an open scource project!
+Coding as a hobby is cool. Here in Spoutcodes we code an idea and send it out to the world as an open source project!
 ### What license do we use?
 We use the MIT license, common for open scource projects and gives mobility of changes.
 ### When do we not accept forks?
